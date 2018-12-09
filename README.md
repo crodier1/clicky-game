@@ -1,3 +1,10 @@
+## The Clicky Game: A Memory Game
+
+[Click Here to Load the Game](https://clickygamespongebob.herokuapp.com/)
+
+Make sure you don't like the same picture twice or you lose. Every time you like a different picture you get a point.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
