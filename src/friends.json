@@ -1,0 +1,69 @@
+[
+  {
+    "id": "card1",
+    "name": "SpongeBob",
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": "card2",
+    "name": "Mr. Krabs",
+    "image":
+      "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": "card3",
+    "name": "Squidward",
+    "image":
+      "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": "card4",
+    "name": "Patrick",    
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/7/7e/Patrick_Star.png"
+    
+  },
+
+  {
+    "id": "card5",  
+    "name": "Plankton",    
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/SpongeBob_SquarePants_Plankton.png/150px-SpongeBob_SquarePants_Plankton.png"
+    
+  },
+
+  {
+    "id": "card6",
+    "name": "Sandy",      
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/Sandy_Cheeks.png"    
+  },
+
+
+  {
+    "id": "card7",
+    "name": "Mrs. Puff",      
+    "image": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette3.wikia.nocookie.net%2Fspongebob-polska%2Fimages%2F9%2F90%2FPani_Puff.png%2Frevision%2Flatest%3Fcb%3D20150301163407%26path-prefix%3Dpl&f=1"    
+  },
+
+  {
+    "id": "card8",
+    "name": "Pearl",      
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/SpongeBob_SquarePants_Pearl_Krabs.png"    
+  },
+
+{
+    "id": "card9",
+    "name": "Gary",      
+    "image": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette3.wikia.nocookie.net%2Fp__%2Fimages%2Fc%2Fc9%2FGrin.png%2Frevision%2Flatest%3Fcb%3D20160501192707%26path-prefix%3Dprotagonist&f=1"    
+  }
+
+
+  
+]
