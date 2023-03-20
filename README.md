@@ -1,7 +1,5 @@
 ## The Clicky Game: A Memory Game
 
-[Click Here to Load the Game](https://clickygamespongebob.herokuapp.com/)
-
 Make sure you don't like the same picture twice or you lose. Every time you like a different picture you get a point.
 
 
